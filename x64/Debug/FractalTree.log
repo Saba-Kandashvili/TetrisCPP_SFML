@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (FractalTree.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+E:\C++ Coding\Tetris\Source.cpp(37,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\C++ Coding\Tetris\Source.cpp(49,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\C++ Coding\Tetris\Source.cpp(71,65): warning C4305: '=': truncation from 'double' to 'float'
+E:\C++ Coding\Tetris\Source.cpp(125,40): warning C4305: '=': truncation from 'double' to 'float'
+E:\C++ Coding\Tetris\Source.cpp(136,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\C++ Coding\Tetris\Source.cpp(136,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\C++ Coding\Tetris\Source.cpp(144,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\C++ Coding\Tetris\Source.cpp(144,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  FractalTree.vcxproj -> E:\C++ Coding\Tetris\x64\Debug\Tetris.exe
